@@ -1,0 +1,4 @@
+1. complexity of the library
+2. storage of the library, I mean the way it allocates space for the computation
+3. stability, I mean if that library has been cited by various publication
+ 

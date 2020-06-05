@@ -1,0 +1,2 @@
+singular values of matrix1:	 2.44949 	 1.0
+singular values of matrix2:	 2.0 	 1.0 	 1.0
